@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container-food{
+    text-align: center;
+   padding: 10px;
+}
+
+.food-receipe{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    border: solid black 2px;
+    
+}
+
+.img-style{
+    height: 200px;
+    width: 300px;
+}
+
+.container-food__title{
+    font-weight: bold;
+}
+
+.container-food__button{
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.contact-table{
+    display: inline-block;
+}
+
+.button{
+    background-color: #A3A601;
+    border: none;
+    display: inline-block;
+    width: 400px;
+}
+
+.container-nav__pages{
+    color: rgb(141, 137, 137);
+    padding-bottom: 10px;
+}
